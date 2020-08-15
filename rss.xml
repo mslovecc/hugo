@@ -7,12 +7,12 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Hugo Theme MemE</title>
+        <title>Hugo 主题 MemE</title>
         <link>https://example.com/</link>
-        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
         <generator>Hugo 0.73.0 https://gohugo.io/</generator>
         
-            <language>en</language>
+            <language>zh-CN</language>
         
         
             <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
@@ -21,9 +21,9 @@
             <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
         
         
-            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 15 Aug 2020 19:25:48 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 15 Aug 2020 19:27:42 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -36,7 +36,7 @@
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
                 
-                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
                     <description>&lt;p&gt;hello friends
 测试一下，真的很难！&lt;/p&gt;

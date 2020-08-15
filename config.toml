@@ -25,7 +25,7 @@ pluralizeListTitles = false
 summaryLength = 42
 
 # 是否开启 GitHub 风格的 Emoji 书写方式
-enableEmoji = false
+enableEmoji = true
 
 # 脚注的返回链接中的文本
 footnoteReturnLinkContents = "↩"
@@ -190,18 +190,18 @@ uglyURLs = false
         weight = 2
         pre = "internal"
         post = "archive"
-    [[menu.main]]
-        url = "/categories/"
-        name = "分类"
-        weight = 3
-        pre = "internal"
-        post = "th"
-    [[menu.main]]
-        url = "/tags/"
-        name = "标签"
-        weight = 4
-        pre = "internal"
-        post = "tags"
+    #[[menu.main]]
+    #    url = "/categories/"
+    #    name = "分类"
+    #    weight = 3
+    #    pre = "internal"
+    #    post = "th"
+    #[[menu.main]]
+    #    url = "/tags/"
+    #    name = "标签"
+    #    weight = 4
+    #    pre = "internal"
+    #    post = "tags"
     [[menu.main]]
         url = "/about/"
         name = "关于"
@@ -298,7 +298,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = [暗夜中<br>渴望一束光的关怀<br>在白天<br>却更渴望黑洞的吞噬<br>因为好奇心，想看看黑暗中有什么]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
@@ -949,7 +949,7 @@ uglyURLs = false
     ## 首字下沉
 
     # 是否开启（全局设置）
-    enableDropCap = false
+    enableDropCap = true
     # 说明：文章的 Front Matter 中的 `dropCap`
     #      的优先级高于此处
 
@@ -1132,14 +1132,14 @@ uglyURLs = false
     # 极简页脚
 
     # 是否开启
-    enableMinimalFooter = false
-    enableVerticalBarStructure = false
+    enableMinimalFooter = true
+    enableVerticalBarStructure = true
     # 说明：如果开启此项，显示在右边的部类或分区
     #      将会包含全部的第一级部类或分区，并且
     #      以竖线（|）分隔开来。
 
     # 是否开启关于页面的极简页脚
-    enableAboutPageMinimalFooter = false
+    enableAboutPageMinimalFooter = true
 
 
     ######################################

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MingGor</title>
+        <link>https://i.babe123.top/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.73.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>edwin@bravogz.com (MingGor)</managingEditor>
+        
+        
+            <webMaster>edwin@bravogz.com (MingGor)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sat, 15 Aug 2020 20:03:26 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://i.babe123.top/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://i.babe123.top/posts/hello-world/</link>
+                <guid isPermaLink="true">https://i.babe123.top/posts/hello-world/</guid>
+                <pubDate>Sat, 15 Aug 2020 17:37:55 &#43;0800</pubDate>
+                
+                    <author>edwin@bravogz.com (MingGor)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;测试一下，真的很难！&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

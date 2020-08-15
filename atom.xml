@@ -2,30 +2,30 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
-    <title type="text">Hugo 主题 MemE</title>
+    <title type="text">MingGor</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-08-15T19:27:42&#43;08:00</updated>
-    <id>https://example.com/</id>
-    <link rel="alternate" type="text/html" href="https://example.com/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://example.com/atom.xml" />
+    <updated>2020-08-15T19:37:52&#43;08:00</updated>
+    <id>https://i.babe123.top/</id>
+    <link rel="alternate" type="text/html" href="https://i.babe123.top/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://i.babe123.top/atom.xml" />
     <author>
-            <name>reuixiy</name>
-            <uri>https://example.com/</uri>
+            <name>MingGor</name>
+            <uri>https://i.babe123.top/</uri>
             
-                <email>reuixiy@gmail.com</email>
+                <email>edwin@bravogz.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.73.0">Hugo</generator>
         <entry>
             <title type="text">Hello World</title>
-            <link rel="alternate" type="text/html" href="https://example.com/posts/hello-world/" />
-            <id>https://example.com/posts/hello-world/</id>
+            <link rel="alternate" type="text/html" href="https://i.babe123.top/posts/hello-world/" />
+            <id>https://i.babe123.top/posts/hello-world/</id>
             <updated>2020-08-15T19:25:44&#43;08:00</updated>
             <published>2020-08-15T17:37:55&#43;08:00</published>
             <author>
-                    <name>reuixiy</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>reuixiy@gmail.com</email>
+                    <name>MingGor</name>
+                    <uri>https://i.babe123.top/</uri>
+                    <email>edwin@bravogz.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">hello friends 测试一下，真的很难！</summary>
             

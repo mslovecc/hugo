@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">MingGor</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-08-16T17:27:02&#43;08:00</updated>
+    <updated>2020-08-16T17:28:35&#43;08:00</updated>
     <id>https://i.babe123.top/</id>
     <link rel="alternate" type="text/html" href="https://i.babe123.top/" />
     <link rel="self" type="application/atom&#43;xml" href="https://i.babe123.top/atom.xml" />
@@ -57,7 +57,7 @@
             <title type="text">将进酒·君不见</title>
             <link rel="alternate" type="text/html" href="https://i.babe123.top/posts/hello-wolrd/" />
             <id>https://i.babe123.top/posts/hello-wolrd/</id>
-            <updated>2020-08-16T17:26:58&#43;08:00</updated>
+            <updated>2020-08-16T17:28:30&#43;08:00</updated>
             <published>2020-08-16T12:13:12&#43;08:00</published>
             <author>
                     <name>MingGor</name>
@@ -66,8 +66,8 @@
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">唐 · 李白 君不见，黄河之水天上来，奔流到海不复回。 君不见，高堂明镜悲白发，朝如青丝暮成……</summary>
             
-                <content type="html">&lt;p&gt;&lt;em&gt;唐 · 李白&lt;/em&gt;&lt;br&gt;
-君不见，黄河之水天上来，奔流到海不复回。&lt;br&gt;
+                <content type="html">&lt;p&gt;&lt;em&gt;唐 · 李白&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;君不见，黄河之水天上来，奔流到海不复回。&lt;br&gt;
 君不见，高堂明镜悲白发，朝如青丝暮成雪。&lt;/p&gt;
 &lt;p&gt;人生得意须尽欢，莫使金樽空对月。&lt;br&gt;
 天生我材必有用，千金散尽还复来。&lt;br&gt;

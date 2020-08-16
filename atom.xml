@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">MingGor</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-08-16T17:00:13&#43;08:00</updated>
+    <updated>2020-08-16T17:09:17&#43;08:00</updated>
     <id>https://i.babe123.top/</id>
     <link rel="alternate" type="text/html" href="https://i.babe123.top/" />
     <link rel="self" type="application/atom&#43;xml" href="https://i.babe123.top/atom.xml" />
@@ -17,41 +17,28 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
         <entry>
-            <title type="text">Whats on My Mind</title>
+            <title type="text">雨霖铃·寒蝉凄切</title>
             <link rel="alternate" type="text/html" href="https://i.babe123.top/posts/whats-on-my-mind/" />
             <id>https://i.babe123.top/posts/whats-on-my-mind/</id>
-            <updated>2020-08-16T16:59:56&#43;08:00</updated>
+            <updated>2020-08-16T17:09:11&#43;08:00</updated>
             <published>2020-08-16T12:13:57&#43;08:00</published>
             <author>
                     <name>MingGor</name>
                     <uri>https://i.babe123.top/</uri>
                     <email>edwin@bravogz.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">雨霖铃·寒蝉凄切 宋 · 柳永 寒蝉凄切， 对长亭晚， 骤雨初歇。 都门帐饮无绪， 留恋处， 兰舟催发……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">宋 · 柳永 寒蝉凄切，对长亭晚，骤雨初歇。 都门帐饮无绪，留恋处，兰舟催发。 执手相看泪眼，……</summary>
             
-                <content type="html">&lt;p&gt;雨霖铃·寒蝉凄切&lt;/p&gt;
-&lt;p&gt;宋 · 柳永&lt;/p&gt;
-&lt;p&gt;寒蝉凄切，&lt;br&gt;
-对长亭晚，&lt;br&gt;
-骤雨初歇。&lt;/p&gt;
-&lt;p&gt;都门帐饮无绪，&lt;br&gt;
-留恋处，&lt;br&gt;
-兰舟催发。&lt;/p&gt;
-&lt;p&gt;执手相看泪眼，&lt;br&gt;
-竟无语凝噎。&lt;/p&gt;
-&lt;p&gt;念去去，&lt;br&gt;
-千里烟波，&lt;br&gt;
-暮霭沉沉楚天阔。&lt;/p&gt;
-&lt;p&gt;多情自古伤离别，&lt;br&gt;
-更那堪，&lt;br&gt;
-冷落清秋节！&lt;/p&gt;
+                <content type="html">&lt;p&gt;宋 · 柳永&lt;/p&gt;
+&lt;p&gt;寒蝉凄切，对长亭晚，骤雨初歇。&lt;br&gt;
+都门帐饮无绪，留恋处，兰舟催发。&lt;br&gt;
+执手相看泪眼，竟无语凝噎。&lt;/p&gt;
+&lt;p&gt;念去去，千里烟波，暮霭沉沉楚天阔。&lt;br&gt;
+多情自古伤离别，更那堪，冷落清秋节！&lt;/p&gt;
 &lt;p&gt;今宵酒醒何处？&lt;br&gt;
-杨柳岸，&lt;br&gt;
-晓风残月。&lt;/p&gt;
-&lt;p&gt;此去经年，&lt;br&gt;
-应是良辰好景虚设。&lt;br&gt;
-便纵有千种风情，&lt;br&gt;
-更与何人说？&lt;/p&gt;
+杨柳岸，晓风残月。&lt;br&gt;
+此去经年，应是良辰好景虚设。&lt;br&gt;
+便纵有千种风情，更与何人说？&lt;/p&gt;
 </content>
             
             

@@ -178,12 +178,12 @@ uglyURLs = false
 
 [menu]
     ## 菜单栏
-    [[menu.main]]
-         url = "/"
-         name = "首页"
-         weight = 1
-         pre = "internal"
-         post = "home"
+    #[[menu.main]]
+    #     url = "/"
+    #     name = "首页"
+    #     weight = 1
+    #     pre = "internal"
+    #     post = "home"
     [[menu.main]]
         url = "/posts/"
         name = "文章"
@@ -263,7 +263,7 @@ uglyURLs = false
     # 如果否，则会使用你的站点标题作为默认值，并
     # 以文字的形式显示，下方可配置字号和字色。字
     # 体请到底部的字体部分配置。单位：em。
-    siteBrandFontSize = 10
+    siteBrandFontSize = 2
     siteBrandFontColor = "var(--color-contrast-high)"
 
 
@@ -300,7 +300,7 @@ uglyURLs = false
     # 诗句，支持 Markdown
     homePoetry = []
     # 底部链接的内间距，单位：em
-    homeLinksPadding = 1
+    homeLinksPadding = -0.1
 
     ## 「视频片段」
     homePoster = ""

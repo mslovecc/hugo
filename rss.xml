@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sun, 16 Aug 2020 17:17:11 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 16 Aug 2020 17:27:02 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://i.babe123.top/rss.xml" />
         
@@ -63,7 +63,7 @@
             </item>
         
             <item>
-                <title>发现新大陆</title>
+                <title>将进酒·君不见</title>
                 <link>https://i.babe123.top/posts/hello-wolrd/</link>
                 <guid isPermaLink="true">https://i.babe123.top/posts/hello-wolrd/</guid>
                 <pubDate>Sun, 16 Aug 2020 12:13:12 &#43;0800</pubDate>
@@ -72,8 +72,19 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客还有自己搭建的Wordpress，但由于各种原因一直没有找到自己喜欢的主题，渐渐地就把自己要写网志的想法忘记了。&lt;/p&gt;
-&lt;p&gt;最近发现了Hexo和Hugo这两种现在比较流行的静态Blog生成程序，配合Gitpages使用相当强大，也有功能强大美观的主题。或许以后我就可以静下心来写东西了，不用再折腾各种Blog程序。&lt;/p&gt;
+                    <description>&lt;p&gt;&lt;em&gt;唐 · 李白&lt;/em&gt;&lt;br&gt;
+君不见，黄河之水天上来，奔流到海不复回。&lt;br&gt;
+君不见，高堂明镜悲白发，朝如青丝暮成雪。&lt;/p&gt;
+&lt;p&gt;人生得意须尽欢，莫使金樽空对月。&lt;br&gt;
+天生我材必有用，千金散尽还复来。&lt;br&gt;
+烹羊宰牛且为乐，会须一饮三百杯。&lt;/p&gt;
+&lt;p&gt;岑夫子，丹丘生，将进酒，杯莫停。&lt;br&gt;
+与君歌一曲，请君为我倾耳听。&lt;/p&gt;
+&lt;p&gt;钟鼓馔玉不足贵，但愿长醉不愿醒。&lt;br&gt;
+古来圣贤皆寂寞，惟有饮者留其名。&lt;br&gt;
+陈王昔时宴平乐，斗酒十千恣欢谑。&lt;/p&gt;
+&lt;p&gt;主人何为言少钱，径须沽取对君酌。&lt;br&gt;
+五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。&lt;/p&gt;
 </description>
                 
                 

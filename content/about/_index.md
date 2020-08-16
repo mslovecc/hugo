@@ -2,5 +2,6 @@
 title: "About"
 date: 2020-08-15T17:38:04+08:00
 ---
+这是我的个人博客，记录平时的想法及折腾笔记。
 
-what the hell is going on?
+喜欢折腾，但不深入。

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">MingGor</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2020-08-16T12:31:39&#43;08:00</updated>
+    <updated>2020-08-16T12:39:13&#43;08:00</updated>
     <id>https://i.babe123.top/</id>
     <link rel="alternate" type="text/html" href="https://i.babe123.top/" />
     <link rel="self" type="application/atom&#43;xml" href="https://i.babe123.top/atom.xml" />
@@ -20,16 +20,17 @@
             <title type="text">发现新大陆</title>
             <link rel="alternate" type="text/html" href="https://i.babe123.top/posts/hello-wolrd/" />
             <id>https://i.babe123.top/posts/hello-wolrd/</id>
-            <updated>2020-08-16T12:23:56&#43;08:00</updated>
+            <updated>2020-08-16T12:39:09&#43;08:00</updated>
             <published>2020-08-16T12:13:12&#43;08:00</published>
             <author>
                     <name>MingGor</name>
                     <uri>https://i.babe123.top/</uri>
                     <email>edwin@bravogz.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">/我很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客，但……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客还有自己……</summary>
             
-                <content type="html">&lt;p&gt;/我很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客，但由于各种原因一直没有找到自己喜欢的，渐渐地就把自己要写网志的想法忘记了。&lt;/p&gt;
+                <content type="html">&lt;p&gt;很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客还有自己搭建的Wordpress，但由于各种原因一直没有找到自己喜欢的主题，渐渐地就把自己要写网志的想法忘记了。&lt;/p&gt;
+&lt;p&gt;最近发现了Hexo和Hugo这两种现在比较流行的静态Blog生成程序，配合Gitpages使用相当强大，也有功能强大美观的主题。或许以后我就可以静下心来写东西了，不用再折腾各种Blog程序。&lt;/p&gt;
 </content>
             
             

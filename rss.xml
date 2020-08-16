@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MingGor</title>
+        <link>https://i.babe123.top/</link>
+        <description>MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</description>
+        <generator>Hugo 0.74.3 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>edwin@bravogz.com (MingGor)</managingEditor>
+        
+        
+            <webMaster>edwin@bravogz.com (MingGor)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Sun, 16 Aug 2020 12:31:39 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://i.babe123.top/rss.xml" />
+        
+        
+            <item>
+                <title>发现新大陆</title>
+                <link>https://i.babe123.top/posts/hello-wolrd/</link>
+                <guid isPermaLink="true">https://i.babe123.top/posts/hello-wolrd/</guid>
+                <pubDate>Sun, 16 Aug 2020 12:13:12 &#43;0800</pubDate>
+                
+                    <author>edwin@bravogz.com (MingGor)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;/我很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客，但由于各种原因一直没有找到自己喜欢的，渐渐地就把自己要写网志的想法忘记了。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>

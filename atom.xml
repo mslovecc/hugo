@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">MingGor</title>
+    <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
+    <updated>2020-08-16T12:31:39&#43;08:00</updated>
+    <id>https://i.babe123.top/</id>
+    <link rel="alternate" type="text/html" href="https://i.babe123.top/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://i.babe123.top/atom.xml" />
+    <author>
+            <name>MingGor</name>
+            <uri>https://i.babe123.top/</uri>
+            
+                <email>edwin@bravogz.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.74.3">Hugo</generator>
+        <entry>
+            <title type="text">发现新大陆</title>
+            <link rel="alternate" type="text/html" href="https://i.babe123.top/posts/hello-wolrd/" />
+            <id>https://i.babe123.top/posts/hello-wolrd/</id>
+            <updated>2020-08-16T12:23:56&#43;08:00</updated>
+            <published>2020-08-16T12:13:12&#43;08:00</published>
+            <author>
+                    <name>MingGor</name>
+                    <uri>https://i.babe123.top/</uri>
+                    <email>edwin@bravogz.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">/我很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客，但……</summary>
+            
+                <content type="html">&lt;p&gt;/我很早以前就想通过网络把自己生活中的点滴记录下来，之前也用过各种网站提供的博客，但由于各种原因一直没有找到自己喜欢的，渐渐地就把自己要写网志的想法忘记了。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>

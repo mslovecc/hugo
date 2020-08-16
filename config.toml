@@ -893,6 +893,7 @@ uglyURLs = false
     fontFamilyCaption = ""
     # 页脚
     fontFamilyFooter = "'glyph-correction','Source Code Pro','Noto Serif SC',monospace"
+    fontWeightFooter = "bold"
     # 主体
     fontFamilyBody = "'EB Garamond', 'Noto Serif SC', serif"
 

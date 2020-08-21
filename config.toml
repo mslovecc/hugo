@@ -298,7 +298,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = [for the night is dark and full of terror.] 
+    homePoetry = [f] 
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 

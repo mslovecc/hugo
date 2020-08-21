@@ -240,7 +240,7 @@ uglyURLs = false
     # 说明：https://developer.mozilla.org/zh-CN/docs/Web/CSS/background
 
     # 顶栏布局
-    headerLayout = "flex"
+    headerLayout = "center"
     # 说明：居中布局（center）或弹性布局（flex）
 
     # 在窄视图下隐藏菜单栏并显示一个按钮？
@@ -294,11 +294,11 @@ uglyURLs = false
     # 3. posts     文章摘要
     # 4. page      普通页面
 
-    homeLayout = "posts"
+    homeLayout = "poetry"
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = []
+    homePoetry = "for the night is dark and full of *terror*." 
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
